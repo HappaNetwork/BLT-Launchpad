@@ -1,0 +1,165 @@
+- taxonomy: 基金项目
+  icon: fas fa-dollar-sign
+  links:
+  - title: 国家自然科学基金项目查询（V2.0正式版）
+    url: http://fund.keyanzhiku.com/Index/index.html
+    description: ''
+  - title: 国家自然科学基金委员会
+    url: https://www.nsfc.gov.cn
+    description: ''
+  - title: 国家社会科学基金
+    url: https://xm.npopss-cn.gov.cn
+    description: ''
+  - title: 国家科技重大专项
+    url: http://www.nmp.gov.cn
+    description: ''
+  - title: 中国科学院
+    url: https://www.cas.cn/xxgkml/zgkxyyb/kxyj/xdzx/
+    description: ''
+- taxonomy: 科研社区
+  icon: fa fa-university
+  links:
+  - title: 科学网
+    url: http://www.sciencenet.cn
+    description: ''
+  - title: 人大经管之家
+    url: https://bbs.pinggu.org
+    description: ''
+  - title: 小木虫
+    url: http://muchong.com/bbs/
+    description: ''
+- taxonomy: 问卷调查
+  icon: far fa-file-word
+  links:
+  - title: 问卷星
+    url: https://www.wjx.cn
+    description: ''
+  - title: 金数据
+    url: https://jinshuju.net
+    description: ''
+  - title: 腾讯问卷
+    url: https://wj.qq.com
+    description: ''
+- taxonomy: 文档翻译
+  icon: fas fa-sort-alpha-down
+  links:
+  - title: 国外免费在线文档翻译
+    url: https://www.onlinedoctranslator.com/zh-CN/
+    description: ''
+  - title: 搜狗文档翻译
+    url: https://fanyi.sogou.com/document
+    description: 限时免费
+  - title: CNKI翻译助手2.0
+    url: https://dict.cnki.net/index
+    description: 专业免费
+- taxonomy: 学历查询
+  icon: fa fa-envelope-square
+  links:
+  - title: 学信网查询
+    url: https://www.chsi.com.cn
+    description: ''
+- taxonomy: 图书查询
+  icon: fa fa-clipboard
+  links:
+  - title: 国家版权数据中心
+    url: https://pdc.capub.cn/index.html
+    description: ''
+- taxonomy: 学术词典
+  icon: fa fa-leanpub
+  links:
+  - title: 术语在线
+    url: https://www.termonline.cn/index
+    description: ''
+  - title: 知网词典
+    url: https://cidian.cnki.net/index?sysid=112
+    description: 权威学术词典
+  - title: 知网工具书总库
+    url: https://gongjushu.cnki.net/rbook/
+    description: 包含各类专业书及词条查询
+- taxonomy: 必备软件
+  icon: fa fa-wrench
+  links:
+  - title: 知网文献阅读
+    url: https://cajviewer.cnki.net
+    description: 知网文献专用阅读器
+  - title: NOTE EXPRESS
+    url: http://n.ustb.edu.cn/http/77726476706e69737468656265737421e7e056d22e3e67447b0d91bc8a50302627b666ae/aegean/
+    description: 文献整理工具
+- taxonomy: 投稿选刊
+  icon: fa fa-book
+  links:
+  - title: 上海交通大学核心期刊查询系统
+    url: http://corejournal.lib.sjtu.edu.cn
+    description: ''
+  - title: 知网期刊查询
+    url: https://navi.cnki.net/knavi/journals/index
+    description: ''
+  - title: 万方数据知识服务平台
+    url: https://c.wanfangdata.com.cn/periodical
+    description: ''
+  - title: 维普期刊查询
+    url: https://www.cqvip.com/qikan/
+    description: ''
+  - title: 龙源期刊查询
+    url: http://www.qikan.com.cn
+    description: ''
+  - title: 国家新闻总署期刊查询
+    url: https://www.nppa.gov.cn/bsfw/cyjghcpcx/qkan/index.html
+    description: ''
+  - title: 国家科技期刊开放平台
+    url: https://doaj.istic.ac.cn/#/
+    description: ''
+- taxonomy: 文献下载
+  icon: fas fa-long-arrow-alt-down
+  links:
+  - title: 广西壮族自治区图书馆电子资源
+    url: https://res.gxlib.org.cn/ermsClient/browse.do
+    description: 免费
+  - title: 国家哲学社会科学文献中心
+    url: https://www.ncpssd.org
+    description: 免费
+  - title: 中国国家图书馆
+    url: http://www.nlc.cn
+    description: ''
+  - title: 世界银行报告
+    url: https://documents.shihang.org/zh/publication/documents-reports
+    description: ''
+  - title: 国家标准公开平台
+    url: https://openstd.samr.gov.cn/bzgk/gb/index
+    description: ''
+- taxonomy: 论文课程
+  icon: fa fa-graduation-cap
+  links:
+  - title: 中国大学MOOC
+    url: https://www.icourse163.org
+    description: 免费
+  - title: 国家图书馆公开课
+    url: http://open.nlc.cn/onlineedu/client/index.htm
+    description: ''
+- taxonomy: 论文查重
+  icon: fa fa-search-plus
+  links:
+  - title: 科研诚信管理系统研究中心
+    url: https://check.cnki.net
+    description: 中国知网查重检测的官网，这才是正宗，很多山寨仿的就是这个。
+  - title: Paperpass
+    url: https://www.paperpass.com
+    description: pp的数据据传言来自万方，但是采集的数据略多于万方。
+  - title: 源文鉴检测系统
+    url: https://www.yuanwenjian.net
+    description: 新兴论文检测系统，据说是知网高层出走北方的产物。
+  - title: 维普检测
+    url: http://vpcs.cqvip.com
+    description: 维普的算法严格于万万、知网，一般用于本专论文检测。
+  - title: 万方检测
+    url: https://check.wanfangdata.com.cn
+    description: 中国第二大查重系统，适用于部分高校和万方收录的期刊。
+  - title: 中国知网个人查重服务
+    url: https://cx.cnki.net/main.html#/login
+    description: 2022年9月，知网首次推出在线个人查重服务，但目前暂不支持研究生查重。
+- taxonomy: 其他
+  icon: fas fa-link
+  links:
+  - title: 中国知网个人查重
+    url: https://cx.cnki.net/main.html#/login
+    description: 中国知网个人查重
